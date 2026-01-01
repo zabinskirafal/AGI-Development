@@ -1,10 +1,11 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
-title: "AGIPragma: AGI Development Framework"
-version: "v0.1.1-docs"
-date-released: 2026-01-01
 authors:
   - family-names: "Zabinski"
     given-names: "Rafal"
+title: "AGIPragma: AGI Development Framework"
+version: "0.1.1"
+date-released: 2026-01-01
 repository-code: "https://github.com/zabinskirafal/AGI-Development"
-license: "See LICENSE and COMMERCIAL_LICENSE.md"
+license: CC-BY-NC-4.0
+abstract: "Documentation and framework core for AGIPragma. For commercial use, see COMMERCIAL_LICENSE.md."
