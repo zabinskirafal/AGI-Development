@@ -1,6 +1,6 @@
 # Safety & Doctrine (AGIPragma)
 **Version:** 1.0  
-**Date:** {today}
+**Date:** 2026-04-05
 
 ## Positioning
 AGIPragma studies developmental adaptation under **World Shifts** (Birth Events).

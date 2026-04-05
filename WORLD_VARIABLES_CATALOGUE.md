@@ -1,6 +1,6 @@
 # World Variables Catalogue (AGIPragma / AGI-Development)
 **Version:** 1.0  
-**Date:** {today}  
+**Date:** 2026-04-05  
 **Author:** Rafał Żabiński
 
 Conceptual world variables that may influence development, adaptation,

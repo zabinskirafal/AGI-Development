@@ -1,6 +1,6 @@
 # Doctrine of Disconnected Intelligence (AGIPragma)
 **Version:** 1.0  
-**Date:** {today}  
+**Date:** 2026-04-05  
 **Author:** Rafał Żabiński
 
 > A submarine does not “win” the world.  
